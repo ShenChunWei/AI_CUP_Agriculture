@@ -5,7 +5,7 @@
 ├── Test_Data.ipynb
 ├── AI_CUP_Agricultural
 │   ├── model_weight_b3.pth
-│   ├── model_weight_b4.pth 
+│   └── model_weight_b4.pth 
 ├── Test_set
 │   ├── test_0.zip
 │   ├── test_1.zip            
@@ -13,15 +13,15 @@
 │   ├── test_3.zip                
 │   ├── test_4.zip    
 │   ├── test_5.zip         
-│   └── test_6.zip 
+│   ├── test_6.zip 
 │   ├── test_7.zip             
 │   ├── test_8.zip         
-│   └── test_9.zip
+│   ├── test_9.zip
 │   ├── test_a.zip     
 │   ├── test_b.zip      
-│   └── test_c.zip
-│   └── test_d.zip
-│   └── test_e.zip
+│   ├── test_c.zip
+│   ├── test_d.zip
+│   ├── test_e.zip
 │   └── test_f.zip              
 ├── AI_CUP_Agricultural_Data                      
 │   ├── banana
@@ -30,12 +30,12 @@
 │   ├── dragonfruit                
 │   ├── garlic             
 │   ├── guava         
-│   └── peanut 
+│   ├── peanut 
 │   ├── pineapple             
 │   ├── pumpkin         
-│   └── rice
+│   ├── rice
 │   ├── soybean     
 │   ├── sugarcane      
-│   └── tomato
+│   ├── tomato
 │   └── bareland
 ```
