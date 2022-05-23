@@ -1,5 +1,5 @@
 #目錄結構
-
+```
 ├── AI_CUP(EfficientNet_b3).ipynb                
 ├── AI_CUP(EfficientNet_b4).ipynb
 ├── Test_Data.ipynb
@@ -38,3 +38,4 @@
 │   ├── sugarcane      
 │   └── tomato
 │   └── bareland
+```
